@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/jadernunes/react-native-multiple-select.git"
   },
   "keywords": [
     "reactnative",
